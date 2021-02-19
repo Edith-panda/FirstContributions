@@ -15,3 +15,4 @@
   [Okeagu Onyekachi](https://github.com/aeronye)
 - [Daniel Kim 🇰🇷](https://twitter.com/journeyer_)
 - [Nick Trujillo 😓] (https://twitter.com/nickkrich)
+- [ Edith panda](https://github.com/Edith-panda/)
